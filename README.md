@@ -67,8 +67,8 @@ npm run dev
 
 ## 🌟 Screenshots
 
-![Dashboard](./screenshots/dashboard.png)  
-*(You can add actual screenshots here to showcase the UI)*
+![Dashboard](./Screenshots/screenshot-1.png)  
+
 
 ---
 
