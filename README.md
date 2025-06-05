@@ -93,7 +93,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 
-This project is licensed under No licensed.
+This project is under No licensed.
 
 ---
 
