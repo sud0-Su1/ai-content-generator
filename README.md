@@ -97,4 +97,3 @@ This project is under No licensed.
 
 ---
 
-Happy Generating! 🎉
