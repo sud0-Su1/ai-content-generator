@@ -68,6 +68,9 @@ npm run dev
 ## 🌟 Screenshots
 
 ![Dashboard](./Screenshots/screenshot-1.png)  
+![Dashboard](./Screenshots/screenshot-2.png)  
+![Dashboard](./Screenshots/screenshot-3.png)  
+![Dashboard](./Screenshots/screenshot-4.png)  
 
 
 ---
