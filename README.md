@@ -84,7 +84,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js  
-- **Backend**: Node.js (or your chosen stack)  
+- **Backend**: Next.js
 - **Payments**: Stripe  
 - **Authentication**: Clerk  
 - **Deployment**: Vercel / Netlify / your preferred platform  
